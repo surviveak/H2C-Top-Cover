@@ -1,5 +1,7 @@
 # H2C Top Cover
 
+**Before printing, measure and verify the dimensions of your own printer and setup. Differences between individual printers, installed add-ons, and other factors may require minor dimensional adjustments in your slicer. Confirm the fit and clearances before printing the full set.**
+
 A four-panel, interlocking honeycomb cover designed for the Bambu Lab H2C top glass. The cover sits above the glass, includes a front handle opening in the seating lip, and uses removable supports to help prevent the panels from sagging.
 
 **Current version: v1.7.** All six exported meshes passed closed-mesh checks and all source solids passed geometry validation. The preceding v1.6 design was printed by the project owner, who confirmed that the connectors and center junction support worked well. The final v1.7 footprint and enlarged support have not yet been physically verified.
